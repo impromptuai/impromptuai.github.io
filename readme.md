@@ -2,13 +2,13 @@
 
 This repository hosts the official website and privacy policy for **Innidule**, an AI-powered music generation app that turns simple text prompts into beautiful, original sheet music and MP3 audio files.
 
-👉 Visit the site: [https://impromptuai.github.io/innidule.html](https://impromptuai.github.io/innidule.html)
+👉 Visit the site: [https://impromptuai.github.io/innidule](https://impromptuai.github.io/innidule)
 
 ---
 
 ## 📄 Contents
 
-- [Main Website](https://impromptuai.github.io/innidule.html)
+- [Main Website](https://impromptuai.github.io/innidule)
 - [Privacy Policy](https://impromptuai.github.io/innidule/privacy.html)
 
 ---
