@@ -1,15 +1,15 @@
-# Lyrena — AI Music Generator 🎶
+# Innidule — AI Music Generator 🎶
 
-This repository hosts the official website and privacy policy for **Lyrena**, an AI-powered music generation app that turns simple text prompts into beautiful, original sheet music and MP3 audio files.
+This repository hosts the official website and privacy policy for **Innidule**, an AI-powered music generation app that turns simple text prompts into beautiful, original sheet music and MP3 audio files.
 
-👉 Visit the site: [https://lyrena-ai.github.io](https://lyrena-ai.github.io)
+👉 Visit the site: [https://immpromptuai.github.io](https://impromptuai.github.io)
 
 ---
 
 ## 📄 Contents
 
-- [Main Website](https://lyrena-ai.github.io/)
-- [Privacy Policy](https://lyrena-ai.github.io/privacy.html)
+- [Main Website](https://impromptuiai.github.io/)
+- [Privacy Policy](https://impromptuai.github.io/privacy.html)
 
 ---
 
@@ -17,11 +17,11 @@ This repository hosts the official website and privacy policy for **Lyrena**, an
 
 For questions, feedback, or support requests:
 
-**Email:** [lyrena.app@gmail.com](mailto:lyrena.app@gmail.com)
+**Email:** [impromptuai.team@gmail.com](mailto:impromptuai.team@gmail.com)
 
 ---
 
-## ℹ️ About Lyrena
+## ℹ️ About Innidule
 
 - **Platform:** iOS
 - **Developer:** Matt Winnel
