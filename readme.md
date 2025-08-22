@@ -9,7 +9,7 @@ This repository hosts the official website and privacy policy for **Innidule**, 
 ## 📄 Contents
 
 - [Main Website](https://impromptuai.github.io/innidule.html)
-- [Privacy Policy](https://impromptuai.github.io/privacy.html)
+- [Privacy Policy](https://impromptuai.github.io/innidule/privacy.html)
 
 ---
 
